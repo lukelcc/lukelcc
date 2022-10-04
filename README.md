@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukelcc
-- 👀 I’m interested in game development
+- 👀 I’m interested in game development, or any programming job
 - 🌱 I’m currently learning Unity C#
 - 💞️ I’m looking to collaborate on making 2D games 
 - 📫 How to reach me: lukelcc@gmail.com
