@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/luke-lee-318a43235](www.linkedin.com/in/luke-lee-318a43235)
 
-- ⚡ Notice: **Please Visit my repositories to explore my latest game dev projects**
+- ⚡ Notice: **Please Visit <a href="https://github.com/lukelcc?tab=repositories">my repositories</a> to explore my latest game dev projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
