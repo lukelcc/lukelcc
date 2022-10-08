@@ -1,4 +1,4 @@
-<h1>Luke Lee</h1>
+<h1>Hi, Im Luke</h1>
 
 - 👋 Hi, I’m @lukelcc
 - 👀 I’m interested in game development, or any programming job
